@@ -1,20 +1,28 @@
 .navBarLinksContainer{
     justify-content: flex-end;
+    
 }
+
 
 .navbar-toggler{
     border:none !important;
     box-shadow: 0;
+    
 }
 
+
+
 .navbar-toggler:focus{
+    
     box-shadow: none !important;
     outline: none !important;
+    
 }
 
 
 /* retirer decoration ancre dans navbar */
 .nav-link{
+    
     font-size: 17px;
     color:#333232;
     text-decoration: none;

@@ -1,0 +1,14 @@
+.Bouton{
+    height:100px;
+    width : 100%;
+    
+    
+}
+
+.btn{
+    height: 90%;
+    width: 90%;
+    font-size: 25pt !important;
+    box-shadow: 4px 5px 10px 0px var(--global-palette4,#2d3748);
+    opacity: 0.92;
+}
